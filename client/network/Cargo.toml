@@ -22,7 +22,7 @@ bytes = "1"
 codec = { package = "parity-scale-codec", version = "3.2.2", features = ["derive"] }
 either = "1.5.3"
 fnv = "1.0.6"
-futures = "0.3.21"
+futures = "0.3.27"
 futures-timer = "3.0.2"
 ip_network = "0.4.1"
 libp2p = { version = "0.50.0", features = ["dns", "identify", "kad", "macros", "mdns", "mplex", "noise", "ping", "tcp",  "tokio", "yamux", "websocket"] }
